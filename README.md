@@ -6,7 +6,7 @@ Creative Commons Attribution International 4.0 license (CC BY), please check the
 
 # Credit
 ## Polish
-The Polish dataset contains data from [BAN-PL](https://github.com/ZILiAT-NASK/BAN-PL), base on their work:
+The Polish dataset contains data from [BAN-PL](https://github.com/ZILiAT-NASK/BAN-PL), based on their work:
 
 Kołos, A., Okulska, I., Głąbińska, K., Karlińska, A., Wiśnios, E., Ellerik, P., Prałat, A. [*BAN-PL: a Novel Polish Dataset of Banned Harmful and Offensive Content from Wykop.pl web service*](https://arxiv.org/abs/2308.10592). 2023. arXiv:2308.1059.
 
